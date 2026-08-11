@@ -12,7 +12,7 @@ Dice from Factions:
   Space Marines               0
   
   Forces of Chaos Undivided   0
-  Forces of Slaanesh          0
+  Forces of Slaanesh          4
   Forces of Tzeentch          0
   Forces of Khorne            0
   Forces of Nurgle            0
