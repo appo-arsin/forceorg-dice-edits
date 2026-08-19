@@ -1,5 +1,5 @@
 # forceorg-dice-edits
-Taking ForceOrg dice to give custom textures to.\n
+Taking ForceOrg dice to give custom textures to.
 Last updated: 8/19/26 04:33
 
 Dice from 40k Factions:
