@@ -1,6 +1,7 @@
 # forceorg-dice-edits
-taking ForceOrg dice to give custom textures to
+Taking ForceOrg dice to give custom textures to.\n
 Last updated: 8/19/26 04:33
+
 Dice from 40k Factions:
   Adepta Sororitas            0
   Adeptus Custodes            2
